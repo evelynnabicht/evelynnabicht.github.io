@@ -46,4 +46,9 @@ a:visited {
 .description {
       font-family: helvetica;
 }
+@media screen and (max-width: 600px) {
 
+    body {
+    width: 90%;
+    font-size: 80%
+  }
