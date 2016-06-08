@@ -1,9 +1,9 @@
-}
 
-html {
-  width:1400px;
-  margin:0px auto;
-  height: 100px;
-  background: white;
-  font-size: 27px;
-}
+
+
+@media screen and (max-width: 600px) {
+
+    body {
+    width: 90%;
+    font-size: 80%
+  }
